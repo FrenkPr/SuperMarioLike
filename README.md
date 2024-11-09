@@ -1,2 +1,5 @@
 # SuperMarioLike
- A "Super Mario Like" project made with Unreal during AIV 2nd year
+ A "Super Mario Like" exam project made with Unreal during AIV 2nd year.
+
+# Controls
+Controls detailed in the game.
